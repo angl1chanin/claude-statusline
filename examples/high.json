@@ -1,0 +1,3 @@
+{"model":{"display_name":"Opus 5.5"},"effort":"max","workspace":{"current_dir":"/Users/me"},
+ "rate_limits":{"five_hour":{"used_percentage":93,"resets_at":1792496102},"seven_day":{"used_percentage":81,"resets_at":1792567592}},
+ "context_window":{"current_usage":{"input_tokens":3000,"cache_creation_input_tokens":20000,"cache_read_input_tokens":248000}}}
